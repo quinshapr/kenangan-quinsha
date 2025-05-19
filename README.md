@@ -1,2 +1,2 @@
-# kenangan-quinsha
-latihan website kedai kopi
+# myportfolio-quinsha
+Latihan My Portfolio
