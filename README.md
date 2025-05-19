@@ -1,2 +1,2 @@
 # kenangan-quinsha
-latihan website my portofolio
+latihan website kedai kopo
