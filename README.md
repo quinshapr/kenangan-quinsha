@@ -1,2 +1,2 @@
 # kenangan-quinsha
-latihan website kedai kopo
+latihan website kedai kopi
